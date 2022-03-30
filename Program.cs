@@ -101,7 +101,7 @@ namespace Stunde_6
 
                         for (int i = 0; i < zahl.Length; i++)
                         {
-                            Console.WriteLine(quersumme += Convert.ToInt32(zahl[i]));
+                            Console.WriteLine(quersumme += Convert.ToInt32(zahl[i])); ///////////////////////////////////////////////////
                         }
                         Console.WriteLine(quersumme);
 
